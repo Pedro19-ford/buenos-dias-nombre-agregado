@@ -2,10 +2,10 @@ package conversor;
 
 import java.util.Scanner;
 
-public class conersor_de_dolares_a_centavos {
+public class Main {
     Scanner lector = new Scanner(System.in);
 
-    public conersor_de_dolares_a_centavos(){
+    public Main(){
         int dolares;
         float centavos;
         float dolar = 100;
