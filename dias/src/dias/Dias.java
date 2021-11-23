@@ -1,3 +1,5 @@
+// programa el cual solicitara al usuario ingresar su nombre 
+//y le mostrara un mensaje de buenos dias +nombre ingresado
 package dias;
 import java.util.Scanner;
 public class Dias {
